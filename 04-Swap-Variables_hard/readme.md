@@ -9,4 +9,7 @@ Swapping two variables refers to mutually exchanging the values of the variables
 ```
 Before swap a = 30 and b = 20                    
 After swaping a = 20 and b = 30
-```
+a, b = b, a
+
+print('a = ', a)
+print('b = ', b)
